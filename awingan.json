@@ -1,1 +1,66 @@
+[
+  {
+    "id": 145,
+    "name": "Thunderbird La Union",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/pat/master/New%20folder/q1.jpg",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.615803,
+    "lng": 120.287068
+  },
+  {
+    "id": 148,
+    "name": "Karruba La Union",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/pat/master/New%20folder/q2.jpg",
+    "price": 300,
+    "priceCurrency": "₱",
+    "lat": 16.531773,
+    "lng": 120.402415
+  },
+  {
+    "id": 201,
+    "name": "Macho Temple La Union",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/pat/master/New%20folder/q3.jpg",
+    "price": 150,
+    "priceCurrency": "₱",
+    "lat": 16.621211,
+    "lng": 120.317396
+  },
+  {
+    "id": 205,
+    "name": "Bahay na Bato La Union",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/pat/master/New%20folder/q4.jpg",
+    "price": 250,
+    "priceCurrency": "₱",
+    "lat": 16.847231,
+    "lng": 120.351616
 
+  },
+  {
+    "id": 211,
+    "name": "Final OptionLa union",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/pat/master/New%20folder/q5.jpg",
+    "price": 600,
+    "priceCurrency": "₱",
+    "lat": 16.679154,
+    "lng": 120.336833
+  },
+    {
+    "id": 212,
+    "name": "Monaliza Point La Union",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/pat/master/New%20folder/q6.jpg",
+    "price": 499,
+    "priceCurrency": "₱",
+    "lat": 16.660265,
+    "lng": 120.322091
+  },
+   {
+    "id": 213,
+    "name": "BAHAY NAMIN. SAN GABRIEL LA UNION",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/pat/master/New%20folder/q7%2Cjpg.png",
+    "price": 350,
+    "priceCurrency": "₱",
+    "lat": 16.674377,
+    "lng": 120.402748
+  }
+]
